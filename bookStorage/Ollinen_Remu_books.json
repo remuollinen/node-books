@@ -1,0 +1,51 @@
+[
+    {
+        "id": 3,
+        "name": "Rebellion of Sophie Q. Lister",
+        "author": "Isla Shore",
+        "genre": "humorous essay",
+        "year": 2012
+    },
+    {
+        "id": 4,
+        "name": "SQL-mysteries",
+        "author": "Matt Wilson",
+        "genre": "poem",
+        "year": 1995
+    },
+    {
+        "id": 2,
+        "name": "Maria and My",
+        "author": "Jesse River",
+        "genre": "textbook",
+        "year": 2000
+    },
+    {
+        "id": 5,
+        "name": "The adventures of Mike the Millipede",
+        "author": "Emily White",
+        "genre": "nonfiction",
+        "year": 2005
+    },
+    {
+        "id": 6,
+        "name": "Hacking databases",
+        "author": "Layla Jones",
+        "genre": "chronic",
+        "year": 2017
+    },
+    {
+        "id": 7,
+        "name": "Databases - The rise and fall",
+        "author": "Felix Harris",
+        "genre": "short story",
+        "year": 2018
+    },
+    {
+        "id": 1,
+        "name": "NoSql - New Hope",
+        "author": "Antony Lee",
+        "genre": "fiction",
+        "year": 2011
+    }
+]

@@ -1,0 +1,44 @@
+main, form {
+	display: grid;
+	align-items: center;
+	justify-items: center;
+}
+
+input[readonly]{
+	background-color: lightgray;
+}
+
+table {
+	border-collapse: collapse;
+	margin-bottom: 1em;
+}
+
+table, th, td {
+	border: 2px solid black;
+	padding: 1em;
+}
+
+thead {
+	background-color: lightskyblue;
+}
+
+button {
+	font-size: 1.5rem;
+	width: 15em;
+	height: 2em;
+	margin: 0.5em;
+	cursor: pointer;
+}
+
+p.info {
+	border: 2px solid green;
+	padding: 1em;
+}
+p.error {
+	border: 2px dashed red;
+	padding: 1em;
+}
+
+h2.error {
+	color: red
+}
