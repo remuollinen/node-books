@@ -10,13 +10,15 @@
 
 ## Usage
 
-To run the application, navigate to the root folder of the project and run the below code from a terminal of your choice.
+- Get the project to your local computer i.e. by cloning or forking and check the package.json file for dependecies and install those dependencies.
+
+- To run the application, navigate to the root folder of the project and run the below code from a terminal of your choice.
 
 ```shell
 node index.js
 ```
 
-Then open your browser and go to [http://localhost:3000](http://localhost:3000).
+- Then open your browser and go to [http://localhost:3000](http://localhost:3000).
 
 ## Screenshot of menu page
 
